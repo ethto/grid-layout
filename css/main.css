@@ -25,3 +25,7 @@ body {
   width: 100%;
   display: block;
 }
+
+.gutter {
+  padding: 0 2em;
+}
